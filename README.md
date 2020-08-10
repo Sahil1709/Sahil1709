@@ -60,7 +60,7 @@
 
 ---
 
-<img align="left" alt="Sahil1709's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Sahil1709's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sahil1709&show_icons=true&hide_border=true" />
 
 [website]: https://sahil1709.weebly.com
 [twitter]: https://twitter.com/sahil_gupta_01
