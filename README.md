@@ -1,7 +1,7 @@
 ### Hi there, I'm Sahil - aka [Sahil1709][website] 👋
 
 ## I'm a Student, Front End + Back End Developer, and Learner!
-- 🔭 I’m currently working on a [Mini Project][website]!
+- 🔭 I’m currently working on a [Mini Project][mini-project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -59,10 +59,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil1709&theme=tokyonight)](https://github.com/Sahil1709)
 
-<img align="left" alt="Sahil1709's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Sahil1709&show_icons=true&hide_border=true" />
 
-[website]: https://sahil1709.weebly.com
+
+
+[mini-project]: https://sahils-blogsite.netlify.app/
+[website]: https://sahil1709.github.io/
 [twitter]: https://twitter.com/sahil_gupta_01
 [youtube]: https://www.youtube.com/channel/UCcq3KgYb_xM4YpEZJFUMXrg
 [instagram]: https://instagram.com/sahil_gupta_01
