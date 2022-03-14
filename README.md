@@ -65,7 +65,7 @@
 
 
 [mini-project]: https://sahils-blogsite.netlify.app/
-[website]: http://sahilgupta.rf.gd/
+[website]: https://port-sahil.netlify.app/
 [twitter]: https://twitter.com/sahil_gupta_01
 [youtube]: https://www.youtube.com/channel/UCcq3KgYb_xM4YpEZJFUMXrg
 [instagram]: https://instagram.com/sahil_gupta_01
