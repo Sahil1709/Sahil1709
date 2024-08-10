@@ -1,6 +1,7 @@
 ### Hi there, I'm Sahil - aka [Sahil1709][website] 👋
 
 ## I'm a Student, Front End + Back End Developer, and Learner!
+
 - 🔭 I’m currently working on a [Mini Project][mini-project]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -42,7 +43,9 @@
 ---
 
 ### 📺 Some YouTube Videos That I like
+
 <!-- YOUTUBE:START -->
+
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
 - [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
@@ -52,20 +55,20 @@
 ---
 
 ### 📕 Blog Posts That I like
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 [![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil1709&theme=tokyonight)](https://github.com/Sahil1709)
 
-
-
-
 [mini-project]: https://sahils-blogsite.netlify.app/
-[website]: https://port-sahil.netlify.app/
+[website]: https://sahil-gupta.vercel.app/
 [twitter]: https://twitter.com/sahil_gupta_01
 [youtube]: https://www.youtube.com/channel/UCcq3KgYb_xM4YpEZJFUMXrg
 [instagram]: https://instagram.com/sahil_gupta_01
